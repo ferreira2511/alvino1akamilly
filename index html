@@ -7,13 +7,18 @@
 <metaname=´viewport` content=´widht=device-widht initial-scale=1>
 <link rel='stylesheet' type=´text/css' media=´screen` href='main.css`>
 <script scr=´main,js></script>
-</head>
+<header>
+<body>
+</heder>
+pagina em desenvolvimento
+</header>
+<main>
+<header>
 <h1> VK RECEITAS </h1>
 <p> Olà yags sejam bem vindos ao nosso site de receitinhas :).</p>
 <p>Nesse site vocês vão encontrar várias receitas de diferentes cultura, principalmente da culinária asiática. </p>
 <p>Abaixo deixamos uma receitinha de bolo de chocolate. </p>
-
-                <strong> BOLO DE CHOCOLATE </strong>
+  <strong> BOLO DE CHOCOLATE </strong>
 <p> 3 ovos médios</p>
 <p> 2 xicaras de açucar</p>
 <p> 6 xicaras de farinha de trigo</p>
@@ -21,5 +26,8 @@
 <p> 2 xicaras de leite</p>
 <p> 1 xicara de oleo</p>
 <p> 1 colher de sopa de fermento químico</p>
-  </body>
+</main>
+volte para mais receitinhas :)
+</footer>
+</body>
 </html>
