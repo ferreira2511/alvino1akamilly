@@ -1,2 +1,17 @@
 main{
   backgraund-color:
+body{
+}
+#banner{
+     width:100%;
+}
+.principal{
+      backgroud:#CCCCCC;
+      padding:30px;
+}
+.titulo-principal{
+      padding-lef:20px;
+}
+.titulo-centralizado{
+      text-align:center
+}
