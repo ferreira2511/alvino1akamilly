@@ -32,8 +32,14 @@ volte para mais receitinhas :)
 </body>
   </div>
 <div class="beneficios">
-  <h3 class="VK receitas">Beneficios</h3>
-     <ul>
-<li class="itens">Atendimentoaos Clientes</li>
-
+  <h3 class="VK receitas">Beneficios</h3>   
+  <ul> 
+   <li class="itens">Atendimentoaos Clientes</li>
+   <li class="itens">Espaço diferenciado</li>
+   <li class="itens">Localização</li>
+   <li class="itens">profissionais Qualificados</li>
+</ul>
+       <img src="beneficios.jpg"class="imagembeneficios">
+    </div>
+  </body>
 </html>
